@@ -8,4 +8,5 @@
 
 a = 3
 b = 4
-print(a + b )
+answer = a + b
+print(answer)
